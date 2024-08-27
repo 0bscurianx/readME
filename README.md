@@ -44,9 +44,9 @@
 
 
 <a href="https://github.com/darshan-22/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=darshan-22&theme=tokyonight"/>
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=darshan-22&theme=tokyonight"/>
 </a>
 <a href="https://github.com/darshan-22/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan-22&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=200 width=400 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan-22&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
