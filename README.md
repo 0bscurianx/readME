@@ -42,11 +42,16 @@
   </a>
 </p>
 
+<div align="center">
+  <a href="https://github.com/darshan-22/convoychat">
+    <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan-22&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  </a>
+</div>
 
-<a href="https://github.com/darshan-22/github-readme-stats">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=darshan-22&theme=tokyonight"/>
-</a>
-<a href="https://github.com/darshan-22/convoychat">
-  <img height=200 width=400 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan-22&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
+<table>
+	<tr>
+		<td><a href="https://adithyask.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan-22&theme=nord"></a></td>
+		<td><a href="https://adithyask.com"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshan-22&theme=nord_dark"></a></td>
+	</tr>
+</table>
 
