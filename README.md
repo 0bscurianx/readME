@@ -48,7 +48,7 @@
   </a>
 </div>
 
-<table>
+<!-- <table>
 	<tr>
 		<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan-22&theme=nord"></a></td>
 		<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshan-22&theme=nord_dark"></a></td>
