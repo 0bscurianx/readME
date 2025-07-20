@@ -8,8 +8,8 @@
 
 I'm a Software Engineer focused on creating clean, efficient solutions.
 Previously worked as a **Data Science Intern**, and now stepping into the world of **Machine Learning**.
-Worked on web applications like `TravelNest`, built using the **MERN** stack (pinned).
-Currently, I'm exploring how intelligence and code converge, while working as a SWE.
+Worked on web applications like `TravelNest`, built using the **MERN** stack.
+Currently, I'm exploring machine learning and LLM's, while working as a SWE.
 
 ---
 
@@ -28,6 +28,3 @@ Currently, I'm exploring how intelligence and code converge, while working as a 
 * Working as a Software Engineer
 * Diving into Machine Learning and AI projects
 * Building things that solve problems and scale well
-
-
-*Built with intention. Styled with simplicity.*
